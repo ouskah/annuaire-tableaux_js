@@ -4,7 +4,6 @@ $saisie = document.getElementById("saisie");
 
 tableau = [];
 
-
 function afficherListe() {
 
     elements = "";
@@ -17,10 +16,10 @@ function afficherListe() {
     }
 }
 
-
 function ajouter() {
     tableau.push($saisie.value);
     afficherListe();
+    $saisie.value = "";
 }
 
 $ajouter.onclick = ajouter;
