@@ -1,4 +1,4 @@
-#### Simplon - Défi : Les tableaux en javascript - cours et application pratique
+#### Simplon - Défi : Les tableaux en javascript - cours et application pratique (Annuaire basique)
 
 <hr>
 
